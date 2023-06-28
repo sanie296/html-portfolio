@@ -1,0 +1,69 @@
+.names{
+    text-align: center;
+}
+
+.main-name{
+    font-size: 2.5rem;
+
+}
+
+.contact{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h4{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+.job-title{
+    display: flex;
+    justify-content: flex-start;
+    gap: 1000px;
+}
+
+.job-date{
+    display: flex;
+    justify-content: flex-start;
+    gap: 1000px;
+}
+
+.job-position{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+     
+}
+
+.location{
+    font-weight: bold;
+}
+
+.date{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    font-weight: bold;
+}
+
+
+.school{
+    font-weight: bold;
+}
+
+.yeaaa{
+    margin-left: 400px;
+}
+
+.school-location{
+    margin-left: 400px;
+}
+
+.major{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Certification{
+    font-weight: bold;
+}
