@@ -78,7 +78,7 @@ nav{
 /* home section */
 
 #Home{
-    background-color: #9BABB8;
+    background-color: #FDF7E4;
     margin-bottom: 30px;
     background-size: 180% 180%; 
     
@@ -177,7 +177,7 @@ nav{
 /* skills section */
 
 #Skills{
-    background-color: #9BABB8;
+    background-color: #FDF7E4;
     height: max-content;
     color: black;
 }
@@ -241,7 +241,7 @@ nav{
 /* projects section */
 
 #Projects{
-    background-color: #9BABB8;
+    background-color: #FDF7E4;
     height: 700px;
     margin-top: 50px;
     height: max-content;
